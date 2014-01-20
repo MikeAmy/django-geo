@@ -1,6 +1,6 @@
 sample_data_utils==0.5
 django-dynamic-fixture==1.6.5
-django-webtest==1.7.5
+django-webtest==1.7.6
 pytest-cov==1.6
 pytest==2.5.1
 pytest-django==2.6
